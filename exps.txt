@@ -1,0 +1,11 @@
+VGG16 - 60 epocas - loss: 0.5554 - acc: 0.9028 - val_loss: 1.0366 - val_acc: 0.6264
+	-> batch 128, no dropout, no regularizer
+
+VGG16 - 60 epocas - loss: 7.8922 - acc: 0.5795 - val_loss: 7.9270 - val_acc: 0.5345
+	-> batch 128, dropout 0.5, regularizer 0.001
+
+VGG16 - 100 epocas - loss: 4.6970 - acc: 0.6342 - val_loss: 4.8202 - val_acc: 0.5552
+	-> batch 128, dropout 0.5, regularizer 0.001
+	
+
+
